@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 I'm Alex Chen, a Computer Engineering student at the University of Toronto
+
+🔭 I’m currently working on System Software Integration @ Ford Motors Canada in Ottawa, Ontario
