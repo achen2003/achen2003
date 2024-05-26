@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Alex Chen, a Computer Engineering student at the University of Toronto
+I'm Alex Chen, and I'm currently pursuing a bachelor's degree in Computer Engineering at the University of Toronto
 
 🔭 I’m currently working on System Software Integration @ Ford Motors Canada in Ottawa, Ontario
