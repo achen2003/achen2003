@@ -18,3 +18,9 @@ Here are some ideas to get you started:
 I'm Alex Chen, and I'm currently pursuing a bachelor's degree in Computer Engineering at the University of Toronto
 
 🔭 I’m currently working on System Software Integration @ Ford Motors Canada in Ottawa, Ontario
+
+💻 I enjoy learning about and working on software and firmware development, especially with C/C++ and Python 
+
+🌱 Recently, I've learned the basics of OS development as well as network programming
+
+
