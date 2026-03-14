@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 I'm Alex Chen, and I'm currently pursuing a bachelor's degree in Computer Engineering at the University of Toronto
 
-🔭 I’m currently working as a Firmware Engineer Intern @ Geotab Inc. in Oakville
+🔭 Previously worked as a Firmware Engineer Intern @ Geotab Inc. in Oakville
 
-💻 I'm passionate about learning and working on software/firmware development, especially projects using C/C++ and/or Python 
+💻 I'm passionate about learning and working on software/firmware/OS development, especially projects using C/C++ and/or Python 
 
 🎸 Outside of school and work, I enjoy practicing electric guitar, collecting vinyl & CDs, listening to a lot of music, watching movies, and picking up new skills
 
