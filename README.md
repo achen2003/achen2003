@@ -23,6 +23,6 @@ I'm Alex Chen, and I'm currently pursuing a bachelor's degree in Computer Engine
 
 💻 I'm passionate about learning and working on software/firmware/OS development, especially projects using C/C++ and/or Python 
 
-🎸 Outside of school and work, I enjoy practicing electric guitar, collecting vinyl & CDs, listening to a lot of music, watching movies, and picking up new skills
+🎸 Outside of school and work, I enjoy practicing electric guitar, collecting vinyl & CDs, listening to a lot of music, watching movies, reading novels and plays, and picking up new skills
 
 
